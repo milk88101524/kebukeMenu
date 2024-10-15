@@ -8,7 +8,8 @@
                     "M": 35,
                     "L": 40
                 },
-                "desc": "帶有濃穩果香的經典紅茶"
+                "desc": "帶有濃穩果香的經典紅茶",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/熟成紅茶.jpg"
             },
             {
                 "name": "麗春紅茶",
@@ -16,7 +17,8 @@
                     "M": 35,
                     "L": 40
                 },
-                "desc": "令人傾心淡雅的花香調紅茶"
+                "desc": "令人傾心淡雅的花香調紅茶",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/麗春紅茶.jpg"
             },
             {
                 "name": "胭脂紅茶",
@@ -24,7 +26,8 @@
                     "M": 45,
                     "L": 50
                 },
-                "desc": "絲絨般果香調與一抹蜜桃風味"
+                "desc": "絲絨般果香調與一抹蜜桃風味",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/胭脂紅茶.jpg"
             },
             {
                 "name": "金蜜紅茶",
@@ -32,7 +35,8 @@
                     "M": 50,
                     "L": 60
                 },
-                "desc": "舌尖上的蜂蜜尾韻與經典熟成的香氣"
+                "desc": "舌尖上的蜂蜜尾韻與經典熟成的香氣",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/金蜜紅茶.jpg"
             },
             {
                 "name": "春芽綠茶",
@@ -40,7 +44,8 @@
                     "M": 35,
                     "L": 40
                 },
-                "desc": "春滿四溢的青翠綠茶"
+                "desc": "春滿四溢的青翠綠茶",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/春芽綠茶.jpg"
             },
             {
                 "name": "雪花冷露",
@@ -48,7 +53,8 @@
                     "M": 35,
                     "L": 40
                 },
-                "desc": "古法熬煮而成清沁滑順冬瓜露"
+                "desc": "古法熬煮而成清沁滑順冬瓜露",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/雪花冷露.jpg"
             },
             {
                 "name": "熟成冷露",
@@ -56,7 +62,8 @@
                     "M": 35,
                     "L": 40
                 },
-                "desc": "經典紅茶與古法熬煮冬瓜露"
+                "desc": "經典紅茶與古法熬煮冬瓜露",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/熟成冷露.jpg"
             },
             {
                 "name": "春芽冷露",
@@ -64,7 +71,8 @@
                     "M": 35,
                     "L": 40
                 },
-                "desc": "青翠綠茶與古法熬煮冬瓜露"
+                "desc": "青翠綠茶與古法熬煮冬瓜露",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/春芽冷露.jpg"
             }
         ]
     },
@@ -77,7 +85,8 @@
                     "M": 60,
                     "L": 70
                 },
-                "desc": "整顆鮮檸檬與經典紅茶清純爽口"
+                "desc": "整顆鮮檸檬與經典紅茶清純爽口",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/熟成檸果.jpg"
             },
             {
                 "name": "冷露檸果",
@@ -85,7 +94,8 @@
                     "M": 60,
                     "L": 70
                 },
-                "desc": "整顆鮮檸檬佐古法熬製的冬瓜露"
+                "desc": "整顆鮮檸檬佐古法熬製的冬瓜露",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/冷露檸果.jpg"
             },
             {
                 "name": "胭脂多多",
@@ -93,7 +103,8 @@
                     "M": 50,
                     "L": 60
                 },
-                "desc": "兒時記憶裡的多多碰上熟後的蜜桃風味"
+                "desc": "兒時記憶裡的多多碰上熟後的蜜桃風味",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/胭脂多多.jpg"
             },
             {
                 "name": "金蜜檸果",
@@ -101,7 +112,8 @@
                     "M": 50,
                     "L": 60
                 },
-                "desc": "清爽酸甜的蜂蜜與鮮切檸檬"
+                "desc": "清爽酸甜的蜂蜜與鮮切檸檬",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/金蜜檸果.jpg"
             },
             {
                 "name": "金檸熟成",
@@ -109,7 +121,8 @@
                     "M": 60,
                     "L": 70
                 },
-                "desc": "經典熟成與整顆檸檬帶上清甜蜂蜜尾韻"
+                "desc": "經典熟成與整顆檸檬帶上清甜蜂蜜尾韻",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/金檸熟成.jpg"
             },
             {
                 "name": "金檸春芽",
@@ -117,7 +130,8 @@
                     "M": 60,
                     "L": 70
                 },
-                "desc": "蜂蜜檸檬清新酸甜氣息帶上青翠茶韻"
+                "desc": "蜂蜜檸檬清新酸甜氣息帶上青翠茶韻",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/金檸春芽.jpg"
             },
             {
                 "name": "桑檸熟成",
@@ -125,7 +139,8 @@
                     "M": 60,
                     "L": 70
                 },
-                "desc": "桑椹莓果與經典熟成的邂逅"
+                "desc": "桑椹莓果與經典熟成的邂逅",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/桑檸熟成.jpg"
             },
             {
                 "name": "柚果紅茶",
@@ -133,7 +148,8 @@
                     "M": 60,
                     "L": 70
                 },
-                "desc": "清新文旦柚與莓果的甘甜滋味"
+                "desc": "清新文旦柚與莓果的甘甜滋味",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/柚果紅茶.jpg"
             },
             {
                 "name": "橘果熟成",
@@ -141,7 +157,8 @@
                     "M": 60,
                     "L": 70
                 },
-                "desc": "茂谷柑柳搭配經典熟成的酸甜氣息"
+                "desc": "茂谷柑柳搭配經典熟成的酸甜氣息",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/橘果熟成.jpg"
             },
             {
                 "name": "莓果春芽",
@@ -149,7 +166,8 @@
                     "M": 60,
                     "L": 70
                 },
-                "desc": "莓果與綠茶的初戀般酸甜滋味"
+                "desc": "莓果與綠茶的初戀般酸甜滋味",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/莓果春芽.jpg"
             }
         ]
     },
@@ -162,7 +180,8 @@
                     "M": 60,
                     "L": 65
                 },
-                "desc": "經典熟成紅茶跳入玫瑰雲蓋般的甜綿"
+                "desc": "經典熟成紅茶跳入玫瑰雲蓋般的甜綿",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/雲蓋熟成.jpg"
             },
             {
                 "name": "雲蓋麗春",
@@ -170,7 +189,8 @@
                     "M": 60,
                     "L": 65
                 },
-                "desc": "淡花香的麗春跳入玫瑰雲蓋般的甜綿"
+                "desc": "淡花香的麗春跳入玫瑰雲蓋般的甜綿",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/雲蓋麗春.jpg"
             },
             {
                 "name": "雲蓋胭脂",
@@ -178,7 +198,8 @@
                     "M": 65,
                     "L": 70
                 },
-                "desc": "恬淡蜜桃果香跳入玫瑰雲蓋般的甜綿"
+                "desc": "恬淡蜜桃果香跳入玫瑰雲蓋般的甜綿",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/雲蓋胭脂.jpg"
             },
             {
                 "name": "雲蓋春芽",
@@ -186,7 +207,8 @@
                     "M": 60,
                     "L": 65
                 },
-                "desc": "青翠綠茶跳入玫瑰雲蓋般的甜綿"
+                "desc": "青翠綠茶跳入玫瑰雲蓋般的甜綿",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/雲蓋春芽.jpg"
             },
             {
                 "name": "雲蓋歐蕾",
@@ -194,7 +216,8 @@
                     "M": 65,
                     "L": 75
                 },
-                "desc": "茶底蘊與鮮奶跳入玫瑰雲蓋般的甜綿"
+                "desc": "茶底蘊與鮮奶跳入玫瑰雲蓋般的甜綿",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/雲蓋歐蕾.jpg"
             },
             {
                 "name": "雲蓋黑蜜",
@@ -202,7 +225,8 @@
                     "M": 70,
                     "L": 80
                 },
-                "desc": "餅香炒糖韻跳入玫瑰雲蓋般的甜綿"
+                "desc": "餅香炒糖韻跳入玫瑰雲蓋般的甜綿",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/雲蓋黑蜜.jpg"
             }
         ]
     },
@@ -215,7 +239,8 @@
                     "M": 55,
                     "L": 65
                 },
-                "desc": "醇厚鮮奶交織經典熟成的奶茶"
+                "desc": "醇厚鮮奶交織經典熟成的奶茶",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/熟成歐蕾.jpg"
             },
             {
                 "name": "冷露歐蕾",
@@ -223,7 +248,8 @@
                     "M": 55,
                     "L": 65
                 },
-                "desc": "古法熬煮的冬瓜露遇上醇厚鲜奶"
+                "desc": "古法熬煮的冬瓜露遇上醇厚鲜奶",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/冷露歐蕾.jpg"
             },
             {
                 "name": "白玉歐蕾",
@@ -231,7 +257,8 @@
                     "M": 60,
                     "L": 70
                 },
-                "desc": "醇厚鮮奶茶咀嚼著Q彈白透珍珠"
+                "desc": "醇厚鮮奶茶咀嚼著Q彈白透珍珠",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/白玉歐蕾.jpg"
             },
             {
                 "name": "金蜜歐蕾",
@@ -239,7 +266,8 @@
                     "M": 60,
                     "L": 70
                 },
-                "desc": "奶與茶香味四溢而蜂蜜藏在喉間裡"
+                "desc": "奶與茶香味四溢而蜂蜜藏在喉間裡",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/金蜜歐蕾.jpg"
             },
             {
                 "name": "黑蜜歐蕾",
@@ -247,7 +275,8 @@
                     "M": 60,
                     "L": 70
                 },
-                "desc": "茶與奶香背後藏匿的是餅香炒糖韻"
+                "desc": "茶與奶香背後藏匿的是餅香炒糖韻",
+                "img": "https://raw.githubusercontent.com/milk88101524/kebukeMenu/main/黑蜜歐蕾.jpg"
             }
         ]
     }
